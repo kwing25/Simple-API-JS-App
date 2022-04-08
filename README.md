@@ -1,1 +1,1 @@
-Simple Stack Exchange API Search JS App 
+Simple API JS App 
